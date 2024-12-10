@@ -1,6 +1,6 @@
 import Product from '../../models/product.js';
 
-const postProduct = async (req, res) => {
+const postProduct = async () => {
   try {
     const result = await Product.create(req.body);
 

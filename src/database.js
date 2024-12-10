@@ -4,11 +4,9 @@ dotenv.config();
 
 const { SUPABASE_URL, LOCAL_URL } = process.env;
 
-const sequelize = new Sequelize(SUPABASE_URL, {
+const sequelize = new Sequelize(LOCAL_URL, {
   dialect: 'postgres',
   logging: false
 });
 
 export default sequelize;
-
-
