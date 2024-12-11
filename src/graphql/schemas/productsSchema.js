@@ -8,7 +8,7 @@ const productsSchema = gql`
   }
 
   type Query {
-    products: [Product]
+    products(page: Int): [Product]
   }
 `;
 
