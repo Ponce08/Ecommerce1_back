@@ -8,14 +8,20 @@ const getproducts = async (req, res) => {
       res.status(404).json({ message: 'Products is not found' });
     }
     res.status(200).json({ succefull: true, products });
+
     // let obj = {};
     // for (let i = 0; i < API.products.length; i++) {
-    //   if (obj[API.products[i].brand]) {
-    //     obj[API.products[i].brand] = obj[API.products[i].brand] + 1;
+    //   if (obj[API.products[i].category]) {
+    //     obj[API.products[i].category] = obj[API.products[i].category] + 1;
     //   } else {
-    //     obj[API.products[i].brand] = 1;
+    //     obj[API.products[i].category] = 1;
     //   }
     // }
+    // let k = 0;
+    // for (const key in obj) {
+    //   k = k + obj[key];
+    // }
+    // obj.total = k;
     // res.json({ data: obj });
   } catch (error) {
     res.status(500).json({ message: error.message });
