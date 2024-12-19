@@ -13,18 +13,20 @@ const productsResolver = {
         if (category) {
           whereCondition.category = { [Op.iLike]: `%${category}%` };
         }
-        if (priceMin !== undefined) {
+        if (priceMin) {
           whereCondition.price = { ...whereCondition.price, [Op.gte]: priceMin }; // Precio mínimo
         }
-        if (priceMax !== undefined) {
+        if (priceMax) {
           whereCondition.price = { ...whereCondition.price, [Op.lte]: priceMax }; // Precio máximo
         }
 
         // Construir la condición ORDER BY dinámicamente
         const order = [];
-        if (ratingOrder === 'asc') {
+        if (priceMin || priceMax) {
+          order.push(['price', 'ASC']);
+        } else if (ratingOrder === 'upward') {
           order.push(['rating', 'ASC']); // Ordenar por rating ascendente
-        } else if (ratingOrder === 'desc') {
+        } else if (ratingOrder === 'falling') {
           order.push(['rating', 'DESC']); // Ordenar por rating descendente
         }
 
