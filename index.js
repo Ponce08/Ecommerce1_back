@@ -3,7 +3,7 @@ import sequelize from './src/database.js';
 import { ApolloServer } from 'apollo-server-express';
 import { typeDefs, resolvers } from './src/graphql/index.js';
 
-const PORT = process.env.PORT || 4000;
+const PORT = 4000;
 
 // Configuracion Apollo Server
 const server = new ApolloServer({ typeDefs, resolvers });
