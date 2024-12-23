@@ -41,6 +41,17 @@ const productsResolver = {
         console.error('Error fetching products:', error);
         throw new Error('Error fetching products');
       }
+    },
+    getProductById: async (_, { id }) => {
+      try {
+        const result = await Product.findByPk(id);
+        
+        if (!result) return { message: `Product with id: ${id} not found` };
+        return result;
+      } catch (error) {
+        console.error('Error fetching product:', error);
+        throw new Error('Error fetching product');
+      }
     }
   }
 };

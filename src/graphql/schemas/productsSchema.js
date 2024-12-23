@@ -49,6 +49,7 @@ const productsSchema = gql`
 
   type Query {
     products(page: Int, category: String, priceMin: Float, priceMax: Float, ratingOrder: String): [Product]
+    getProductById(id: Int!): Product
   }
 `;
 
