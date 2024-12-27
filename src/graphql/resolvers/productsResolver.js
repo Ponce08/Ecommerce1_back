@@ -11,7 +11,7 @@ const productsResolver = {
         // Construir la condición WHERE dinámicamente
         const whereCondition = {};
         if (category) {
-          whereCondition.category = { [Op.iLike]: `%${category}%` };
+          whereCondition.category = { [Op.eq]: category };
         }
         if (priceMin) {
           whereCondition.price = { ...whereCondition.price, [Op.gte]: priceMin }; // Precio mínimo
@@ -45,7 +45,7 @@ const productsResolver = {
     getProductById: async (_, { id }) => {
       try {
         const result = await Product.findByPk(id);
-        
+
         if (!result) return { message: `Product with id: ${id} not found` };
         return result;
       } catch (error) {
