@@ -1,6 +1,8 @@
 import User from '../../models/user.js';
 import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
+// import nodemailer from 'nodemailer';
+// import { plantillaNodemailer } from '../../plantillaNodemailer.js';
 
 const userResolver = {
   Mutation: {
@@ -49,6 +51,21 @@ const userResolver = {
       if (!isMatch) {
         throw new Error('Wrong password');
       }
+
+      // const transporter = nodemailer.createTransport({
+      //   service: 'gmail',
+      //   auth: {
+      //     user: 'fashionYtecnology@gmail.com',
+      //     pass: 'dajx lutz msbn uqma'
+      //   }
+      // });
+
+      // transporter.sendMail({
+      //   from: '<fashionYtecnology@gmail.com>',
+      //   to: 'yonathanponce2019@gmail.com',
+      //   subject: '!Welcome to F&T',
+      //   html: plantillaNodemailer
+      // });
 
       const token = jwt.sign(
         { userId: user.id },
