@@ -2,7 +2,7 @@ import sequelize from '../database.js';
 
 import User from '../models/user.js';
 import Product from '../models/product.js';
-import Order from '../models/Order.js';
+import Order from '../models/order.js';
 import OrderItem from '../models/order_item.js';
 import Payment from '../models/payment.js';
 import Shipping from '../models/shipping.js';
