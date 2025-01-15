@@ -70,7 +70,7 @@ const userResolver = {
       const token = jwt.sign(
         { userId: user.id },
         'secretkey', // Cambia esto por una clave secreta más segura
-        { expiresIn: '1m' }
+        { expiresIn: '1h' }
       );
 
       return {
