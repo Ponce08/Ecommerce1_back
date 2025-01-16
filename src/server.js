@@ -9,7 +9,7 @@ import shippingRoute from './routes/shippingRoute.js';
 
 const app = express();
 
-export const allowedOrigins = ['https://ecommerce-front.vercel.app', 'http://localhost:5173'];
+export const allowedOrigins = ['https://ecommerce1-front.vercel.app', 'http://localhost:5173'];
 
 app.use(
   cors({
