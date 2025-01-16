@@ -1,4 +1,4 @@
-import app from './src/server.js';
+import app, { allowedOrigins } from './src/server.js';
 import sequelize from './src/database.js';
 import { ApolloServer } from 'apollo-server-express';
 import { typeDefs, resolvers } from './src/graphql/index.js';
@@ -12,7 +12,13 @@ const startServer = async () => {
   try {
     // inicio servidor de Apolo
     await server.start();
-    server.applyMiddleware({ app });
+    // Aplicar Apollo Server al middleware con soporte para CORS
+    server.applyMiddleware({
+      app,
+      cors: {
+        origin: allowedOrigins // Lista de dominios permitidos
+      }
+    });
 
     // Sincronizar la base de datos
     await sequelize.authenticate();

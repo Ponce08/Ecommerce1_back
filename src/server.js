@@ -9,9 +9,22 @@ import shippingRoute from './routes/shippingRoute.js';
 
 const app = express();
 
+export const allowedOrigins = ['https://ecommerce-front.vercel.app', 'http://localhost:5173'];
+
 app.use(
   cors({
-    origin: 'https://ecommerce1-front.vercel.app', // Dominio permitido
+    origin: (origin, callback) => {
+      // Si no hay origen (e.g., solicitudes como Postman), permitir
+      if (!origin) return callback(null, true);
+
+      // Verificar si el origen está en la lista de permitidos
+      if (allowedOrigins.includes(origin)) {
+        return callback(null, true);
+      } else {
+        // Bloquear solicitudes desde orígenes no permitidos
+        return callback(new Error('Not allowed by CORS'));
+      }
+    },
     methods: ['GET', 'POST', 'PUT', 'DELETE'], // Métodos HTTP permitidos
     allowedHeaders: ['Content-Type', 'Authorization'] // Encabezados permitidos
   })
