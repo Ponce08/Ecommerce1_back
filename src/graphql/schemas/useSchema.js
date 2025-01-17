@@ -2,7 +2,7 @@ import { gql } from 'apollo-server-express';
 
 const userSchema = gql`
   type User {
-    id: Int
+    id: String
     firstName: String
     lastName: String
     email: String
