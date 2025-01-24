@@ -31,7 +31,6 @@ const productsSchema = gql`
     discountPercentage: Float
     rating: Float
     stock: Int
-    tags: [String]
     brand: String
     sku: String
     weight: Float

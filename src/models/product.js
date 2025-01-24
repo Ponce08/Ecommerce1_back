@@ -32,10 +32,6 @@ const Product = sequelize.define(
       type: DataTypes.INTEGER,
       allowNull: true
     },
-    tags: {
-      type: DataTypes.ARRAY(DataTypes.STRING),
-      allowNull: true
-    },
     brand: {
       type: DataTypes.STRING(255),
       allowNull: true
