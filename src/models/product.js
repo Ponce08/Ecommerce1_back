@@ -22,11 +22,11 @@ const Product = sequelize.define(
     },
     discountPercentage: {
       type: DataTypes.NUMERIC(5, 2),
-      allowNull: true
+      allowNull: false
     },
     rating: {
       type: DataTypes.NUMERIC(3, 2),
-      allowNull: true
+      allowNull: false
     },
     stock: {
       type: DataTypes.INTEGER,
@@ -38,11 +38,11 @@ const Product = sequelize.define(
     },
     sku: {
       type: DataTypes.STRING(255),
-      allowNull: true
+      allowNull: false
     },
     weight: {
       type: DataTypes.INTEGER,
-      allowNull: true
+      allowNull: false
     },
     dimensions: {
       type: DataTypes.JSON,
@@ -51,28 +51,28 @@ const Product = sequelize.define(
     },
     warrantyInformation: {
       type: DataTypes.STRING(255),
-      allowNull: true
+      allowNull: false
     },
     shippingInformation: {
       type: DataTypes.STRING(255),
-      allowNull: true
+      allowNull: false
     },
     availabilityStatus: {
       type: DataTypes.STRING(255),
-      allowNull: true
+      allowNull: false
     },
     reviews: {
       type: DataTypes.JSON,
-      allowNull: true,
+      allowNull: false,
       defaultValue: []
     },
     returnPolicy: {
       type: DataTypes.STRING(255),
-      allowNull: true
+      allowNull: false
     },
     minimumOrderQuantity: {
       type: DataTypes.INTEGER,
-      allowNull: true
+      allowNull: false
     },
     meta: {
       type: DataTypes.JSON,
@@ -90,7 +90,7 @@ const Product = sequelize.define(
     },
     thumbnail: {
       type: DataTypes.STRING(255),
-      allowNull: true
+      allowNull: false
     }
   },
   {
