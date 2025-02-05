@@ -1,0 +1,3657 @@
+{
+  "products": [
+    {
+      "title": "Essence Mascara Lash Princess",
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+      "category": "beauty",
+      "price": 9.99,
+      "rating": 4.94,
+      "stock": 5,
+      "brand": "Essence",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Scarlett Wright",
+          "reviewerEmail": "scarlett.wright@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738685804/Ecommerce_FyT/ln6w3sdlmvzuwlycbquu.webp"]
+    },
+    {
+      "title": "Powder Canister",
+      "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+      "category": "beauty",
+      "price": 14.99,
+      "rating": 3.82,
+      "stock": 59,
+      "brand": "Velvet Touch",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Ethan Thompson",
+          "reviewerEmail": "ethan.thompson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Levi Hicks",
+          "reviewerEmail": "levi.hicks@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Hazel Gardner",
+          "reviewerEmail": "hazel.gardner@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738685806/Ecommerce_FyT/mzly3hhcagucnbauz3zq.webp"]
+    },
+    {
+      "title": "Red Lipstick",
+      "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+      "category": "beauty",
+      "price": 12.99,
+      "rating": 2.51,
+      "stock": 68,
+      "brand": "Chic Cosmetics",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Leo Rivera",
+          "reviewerEmail": "leo.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Oscar Powers",
+          "reviewerEmail": "oscar.powers@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Carter Rivera",
+          "reviewerEmail": "carter.rivera@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738685808/Ecommerce_FyT/fplzlkt3icn1jm0fickz.webp"]
+    },
+    {
+      "title": "Red Nail Polish",
+      "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+      "category": "beauty",
+      "price": 8.99,
+      "rating": 3.91,
+      "stock": 71,
+      "brand": "Nail Couture",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Leo Rivera",
+          "reviewerEmail": "leo.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Evan Reed",
+          "reviewerEmail": "evan.reed@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Evelyn Sanchez",
+          "reviewerEmail": "evelyn.sanchez@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738685811/Ecommerce_FyT/x6iywzvbxzqc4z93zug4.webp"]
+    },
+    {
+      "title": "Calvin Klein CK One",
+      "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+      "category": "fragrances",
+      "price": 49.99,
+      "rating": 4.85,
+      "stock": 17,
+      "brand": "Calvin Klein",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Sophia Brown",
+          "reviewerEmail": "sophia.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Madison Collins",
+          "reviewerEmail": "madison.collins@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Maya Reed",
+          "reviewerEmail": "maya.reed@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685813/Ecommerce_FyT/sdc2ambnvupba0ieuysy.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685814/Ecommerce_FyT/nbf5bl9eicyjumhi0jaf.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685814/Ecommerce_FyT/wmxitokhoe9vj2ubcn8k.webp"
+      ]
+    },
+    {
+      "title": "Chanel Coco Noir Eau De",
+      "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+      "category": "fragrances",
+      "price": 129.99,
+      "rating": 2.76,
+      "stock": 41,
+      "brand": "Chanel",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Disappointing product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Lincoln Kelly",
+          "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Lincoln Kelly",
+          "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Lucas Allen",
+          "reviewerEmail": "lucas.allen@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685815/Ecommerce_FyT/uwmndxgbvo507cnhni1i.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685816/Ecommerce_FyT/f4dck8suvoi6b740dbgo.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685817/Ecommerce_FyT/rdoxb2edh1tjmmwfkgzu.webp"
+      ]
+    },
+    {
+      "title": "Dior J'adore",
+      "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+      "category": "fragrances",
+      "price": 89.99,
+      "rating": 3.31,
+      "stock": 91,
+      "brand": "Dior",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Zoe Nicholson",
+          "reviewerEmail": "zoe.nicholson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Addison Wright",
+          "reviewerEmail": "addison.wright@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Clara Berry",
+          "reviewerEmail": "clara.berry@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685818/Ecommerce_FyT/pofqgxnfh0o77dzzbffd.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685820/Ecommerce_FyT/eylnu8ayotohw0wlo71b.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685822/Ecommerce_FyT/g4wmitahn3p0edbv8kij.webp"
+      ]
+    },
+    {
+      "title": "Dolce Shine Eau de",
+      "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+      "category": "fragrances",
+      "price": 69.99,
+      "rating": 2.68,
+      "stock": 3,
+      "brand": "Dolce & Gabbana",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Xavier Wright",
+          "reviewerEmail": "xavier.wright@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Mila Hernandez",
+          "reviewerEmail": "mila.hernandez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Sophia Brown",
+          "reviewerEmail": "sophia.brown@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685823/Ecommerce_FyT/whswujmrlvytesbh11ev.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685824/Ecommerce_FyT/xhgluwmonzjyq3a4ue3m.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685825/Ecommerce_FyT/cnrqjs1v4uzfyoauas7n.webp"
+      ]
+    },
+    {
+      "title": "Gucci Bloom Eau de",
+      "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+      "category": "fragrances",
+      "price": 79.99,
+      "rating": 2.69,
+      "stock": 93,
+      "brand": "Gucci",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Aria Parker",
+          "reviewerEmail": "aria.parker@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Natalie Harris",
+          "reviewerEmail": "natalie.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ava Harris",
+          "reviewerEmail": "ava.harris@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685826/Ecommerce_FyT/gblmtk3gzjimx6il7wet.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685827/Ecommerce_FyT/awvlgcw6cmbomgtltigq.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685828/Ecommerce_FyT/prmptufencwq3rjaxfof.webp"
+      ]
+    },
+    {
+      "title": "Apple MacBook Pro 14 Inch Space Grey",
+      "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+      "category": "laptops",
+      "price": 1999.99,
+      "rating": 3.13,
+      "stock": 39,
+      "brand": "Apple",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.622Z",
+          "reviewerName": "Hunter Gordon",
+          "reviewerEmail": "hunter.gordon@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.622Z",
+          "reviewerName": "Emma Wilson",
+          "reviewerEmail": "emma.wilson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.622Z",
+          "reviewerName": "David Martinez",
+          "reviewerEmail": "david.martinez@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685829/Ecommerce_FyT/acb7lod0uqfcbcku1ru1.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685831/Ecommerce_FyT/vb9jfivyrdqmzobhrfe5.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685833/Ecommerce_FyT/mwctbzcougu5eg9ebpqf.webp"
+      ]
+    },
+    {
+      "title": "Asus Zenbook Pro Dual Screen Laptop",
+      "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+      "category": "laptops",
+      "price": 1799.99,
+      "rating": 3.14,
+      "stock": 38,
+      "brand": "Asus",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.622Z",
+          "reviewerName": "Jack Ward",
+          "reviewerEmail": "jack.ward@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.622Z",
+          "reviewerName": "Ava Harris",
+          "reviewerEmail": "ava.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.622Z",
+          "reviewerName": "Brayden Fleming",
+          "reviewerEmail": "brayden.fleming@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685835/Ecommerce_FyT/yrwffexjabnmevsc3wqu.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685837/Ecommerce_FyT/ipxqaemuvtfqaaq0p0r1.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685840/Ecommerce_FyT/imwtzaa13sanuzjwtr0n.webp"
+      ]
+    },
+    {
+      "title": "Huawei Matebook X Pro",
+      "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+      "category": "laptops",
+      "price": 1399.99,
+      "rating": 4.62,
+      "stock": 34,
+      "brand": "Huawei",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.622Z",
+          "reviewerName": "Samantha Howard",
+          "reviewerEmail": "samantha.howard@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Would not buy again!",
+          "date": "2024-05-23T08:56:21.622Z",
+          "reviewerName": "Daniel Cook",
+          "reviewerEmail": "daniel.cook@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.622Z",
+          "reviewerName": "Brayden Fleming",
+          "reviewerEmail": "brayden.fleming@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685842/Ecommerce_FyT/olpoev9ltimxumtvqafb.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685844/Ecommerce_FyT/d14buktuxoohrvgf2oky.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685846/Ecommerce_FyT/f1mvcqnlmofofznjkxd3.webp"
+      ]
+    },
+    {
+      "title": "Lenovo Yoga 920",
+      "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+      "category": "laptops",
+      "price": 1099.99,
+      "rating": 2.98,
+      "stock": 71,
+      "brand": "Lenovo",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Paisley Bell",
+          "reviewerEmail": "paisley.bell@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Lincoln Kelly",
+          "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Luna Russell",
+          "reviewerEmail": "luna.russell@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685849/Ecommerce_FyT/h6bgn9kw0xqpgsibip5f.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685852/Ecommerce_FyT/kviebhqu6ucd6pq2zkve.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685854/Ecommerce_FyT/wvq19fl5c0vr2lppwk3d.webp"
+      ]
+    },
+    {
+      "title": "New DELL XPS 13 9300 Laptop",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "rating": 2.98,
+      "stock": 18,
+      "brand": "Dell",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Julian Newton",
+          "reviewerEmail": "julian.newton@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Grace Perry",
+          "reviewerEmail": "grace.perry@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Daniel Taylor",
+          "reviewerEmail": "daniel.taylor@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685856/Ecommerce_FyT/niuac7whzsfwz2s1j307.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685858/Ecommerce_FyT/kiwyzzvbfvh54k8csr0o.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685860/Ecommerce_FyT/nz6ufkl62abgbx1cm58w.webp"
+      ]
+    },
+    {
+      "title": "Blue & Black Check Shirt",
+      "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+      "category": "mens-shirts",
+      "price": 29.99,
+      "rating": 4.19,
+      "stock": 44,
+      "brand": "Fashion Trends",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Mason Parker",
+          "reviewerEmail": "mason.parker@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Avery Perez",
+          "reviewerEmail": "avery.perez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Nathan Reed",
+          "reviewerEmail": "nathan.reed@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685863/Ecommerce_FyT/wffer67je85wafnokqyl.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685866/Ecommerce_FyT/wz4w1g9uvfs7ncbj08ht.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685869/Ecommerce_FyT/jvyolrixzaybxyt2h5xf.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685873/Ecommerce_FyT/lhu2kwgwni2y4moagkfy.webp"
+      ]
+    },
+    {
+      "title": "Gigabyte Aorus Men Tshirt",
+      "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+      "category": "mens-shirts",
+      "price": 24.99,
+      "rating": 4.95,
+      "stock": 64,
+      "brand": "Gigabyte",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Logan Lawson",
+          "reviewerEmail": "logan.lawson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Logan Lawson",
+          "reviewerEmail": "logan.lawson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Oscar Powers",
+          "reviewerEmail": "oscar.powers@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685876/Ecommerce_FyT/bvcsampnp7wtqdz8cfxo.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685878/Ecommerce_FyT/whcmed4hyu2bkhj9avbw.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685881/Ecommerce_FyT/g0q5m9ixrptmbz2yssju.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685883/Ecommerce_FyT/qrlbl3zdbfx2sxs551fu.webp"
+      ]
+    },
+    {
+      "title": "Man Plaid Shirt",
+      "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+      "category": "mens-shirts",
+      "price": 34.99,
+      "rating": 3.66,
+      "stock": 65,
+      "brand": "Classic Wear",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Would not buy again!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Nora Mills",
+          "reviewerEmail": "nora.mills@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Addison Ward",
+          "reviewerEmail": "addison.ward@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Emily Brown",
+          "reviewerEmail": "emily.brown@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685885/Ecommerce_FyT/gulnx8ko3rliu4ankr7r.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685888/Ecommerce_FyT/gqoka6umwwpgywpz4hdk.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685891/Ecommerce_FyT/xe9o3hvqno0niazc05ro.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685893/Ecommerce_FyT/auxxmro2fp53irg5ahnz.webp"
+      ]
+    },
+    {
+      "title": "Man Short Sleeve Shirt",
+      "description": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
+      "category": "mens-shirts",
+      "price": 19.99,
+      "rating": 4.62,
+      "stock": 20,
+      "brand": "Casual Comfort",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Caleb Nelson",
+          "reviewerEmail": "caleb.nelson@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Disappointing product!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Emily Johnson",
+          "reviewerEmail": "emily.johnson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Mila Hernandez",
+          "reviewerEmail": "mila.hernandez@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685896/Ecommerce_FyT/imrog0ju3qfhhnudsw33.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685898/Ecommerce_FyT/magua2vb6wpiiv61bmxa.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685901/Ecommerce_FyT/aiz78ifbvg08my0ne2zk.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685904/Ecommerce_FyT/lv9mcfuwu8eafxgfur06.webp"
+      ]
+    },
+    {
+      "title": "Men Check Shirt",
+      "description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+      "category": "mens-shirts",
+      "price": 27.99,
+      "rating": 2.9,
+      "stock": 69,
+      "brand": "Urban Chic",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Would not buy again!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Elena Long",
+          "reviewerEmail": "elena.long@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very dissatisfied!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Mason Parker",
+          "reviewerEmail": "mason.parker@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Sofia Mitchell",
+          "reviewerEmail": "sofia.mitchell@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685907/Ecommerce_FyT/pivphex2czhrao5afhys.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685909/Ecommerce_FyT/l8wvxe0loujbysx4clvl.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685911/Ecommerce_FyT/pz8jypnrevanzjwc48ws.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685914/Ecommerce_FyT/q3kx1wmwismimdgr3ren.webp"
+      ]
+    },
+    {
+      "title": "Nike Air Jordan 1 Red And Black",
+      "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+      "category": "mens-shoes",
+      "price": 149.99,
+      "rating": 2.77,
+      "stock": 15,
+      "brand": "Nike",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Victoria McDonald",
+          "reviewerEmail": "victoria.mcdonald@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Mason Parker",
+          "reviewerEmail": "mason.parker@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Avery Perez",
+          "reviewerEmail": "avery.perez@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685916/Ecommerce_FyT/lzqbcuhw7wxa4cd1nub8.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685918/Ecommerce_FyT/jo5sybvai8r4kx7j1lba.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685921/Ecommerce_FyT/cmmcsrrndrc5fflwy3pp.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685923/Ecommerce_FyT/wejdnoidvs916rbr2mkl.webp"
+      ]
+    },
+    {
+      "title": "Nike Baseball Cleats",
+      "description": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
+      "category": "mens-shoes",
+      "price": 79.99,
+      "rating": 4.01,
+      "stock": 14,
+      "brand": "Nike",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "William Gonzalez",
+          "reviewerEmail": "william.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Not worth the price!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Sophia Brown",
+          "reviewerEmail": "sophia.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Gabriel Mitchell",
+          "reviewerEmail": "gabriel.mitchell@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685925/Ecommerce_FyT/my0mlieo8kijcevlcrob.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685927/Ecommerce_FyT/b0nfmyc0k1ga2k8ewct5.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685929/Ecommerce_FyT/nvbxso6l48zpqkhdlxyb.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685931/Ecommerce_FyT/zlkaanxvyofkhgtjmzmw.webp"
+      ]
+    },
+    {
+      "title": "Puma Future Rider Trainers",
+      "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+      "category": "mens-shoes",
+      "price": 89.99,
+      "rating": 4.85,
+      "stock": 10,
+      "brand": "Puma",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Lucas Allen",
+          "reviewerEmail": "lucas.allen@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Mason Pearson",
+          "reviewerEmail": "mason.pearson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Hunter Gordon",
+          "reviewerEmail": "hunter.gordon@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685934/Ecommerce_FyT/kqvrg07yxtx0kmcc39kj.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685936/Ecommerce_FyT/ztrh2w6labkt55gxcb9e.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685938/Ecommerce_FyT/o00yv1ustpd7omjxfdsd.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685940/Ecommerce_FyT/diipozps8m7sbxwwx3zz.webp"
+      ]
+    },
+    {
+      "title": "Sports Sneakers Off White & Red",
+      "description": "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
+      "category": "mens-shoes",
+      "price": 119.99,
+      "rating": 4.92,
+      "stock": 73,
+      "brand": "Off White",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "James Garcia",
+          "reviewerEmail": "james.garcia@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Nora Russell",
+          "reviewerEmail": "nora.russell@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Aurora Rodriguez",
+          "reviewerEmail": "aurora.rodriguez@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685943/Ecommerce_FyT/zjdwxbhz6xxsxtzajoyt.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685945/Ecommerce_FyT/vl3vifvafv9vh6cd8vu4.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685948/Ecommerce_FyT/dsuqcfl002z4vbqkr0qu.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685951/Ecommerce_FyT/iua1gixsaaqhgjajjq2c.webp"
+      ]
+    },
+    {
+      "title": "Sports Sneakers Off White Red",
+      "description": "Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
+      "category": "mens-shoes",
+      "price": 109.99,
+      "rating": 2.95,
+      "stock": 75,
+      "brand": "Off White",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Madeline Simpson",
+          "reviewerEmail": "madeline.simpson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Mateo Nguyen",
+          "reviewerEmail": "mateo.nguyen@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.623Z",
+          "reviewerName": "Ethan Fletcher",
+          "reviewerEmail": "ethan.fletcher@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685953/Ecommerce_FyT/dga2kiipognqn0jbq0co.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685956/Ecommerce_FyT/dc1mycnilfequyukbom0.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685958/Ecommerce_FyT/ewpb8mnw1hsnochh2xyn.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685961/Ecommerce_FyT/kldhth1qhgshx5iqne1i.webp"
+      ]
+    },
+    {
+      "title": "Brown Leather Belt Watch",
+      "description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+      "category": "mens-watches",
+      "price": 89.99,
+      "rating": 4.47,
+      "stock": 69,
+      "brand": "Fashion Timepieces",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Very dissatisfied!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Oscar Powers",
+          "reviewerEmail": "oscar.powers@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Eli Ward",
+          "reviewerEmail": "eli.ward@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Stella Hughes",
+          "reviewerEmail": "stella.hughes@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685963/Ecommerce_FyT/m4mlueavxqqj20jwdb3f.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685966/Ecommerce_FyT/ollghvwhfezcux960kds.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685968/Ecommerce_FyT/gmhqpks43bupsxjcvmp4.webp"
+      ]
+    },
+    {
+      "title": "Longines Master Collection",
+      "description": "The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication.",
+      "category": "mens-watches",
+      "price": 1499.99,
+      "rating": 2.64,
+      "stock": 65,
+      "brand": "Longines",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Jack Ward",
+          "reviewerEmail": "jack.ward@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Victoria McDonald",
+          "reviewerEmail": "victoria.mcdonald@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Mia Rodriguez",
+          "reviewerEmail": "mia.rodriguez@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685970/Ecommerce_FyT/b9atstkwt9l5mqbxw9yi.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685972/Ecommerce_FyT/i6epfopugkcfdzxqcj9c.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685975/Ecommerce_FyT/m0k8t07dxvyn6kto8zyk.webp"
+      ]
+    },
+    {
+      "title": "Rolex Cellini Date Black Dial",
+      "description": "The Rolex Cellini Date with Black Dial is a classic and prestigious watch. With a black dial and date complication, it exudes sophistication and is a symbol of Rolex's heritage.",
+      "category": "mens-watches",
+      "price": 8999.99,
+      "rating": 3.61,
+      "stock": 84,
+      "brand": "Rolex",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Gavin Stanley",
+          "reviewerEmail": "gavin.stanley@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Stella Hughes",
+          "reviewerEmail": "stella.hughes@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Paisley Bell",
+          "reviewerEmail": "paisley.bell@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685977/Ecommerce_FyT/otun0fbkmu4hwyukfjig.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685979/Ecommerce_FyT/nu2ipqrr4gktfobqdslj.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685982/Ecommerce_FyT/iheurbwejdbkkm5gumiv.webp"
+      ]
+    },
+    {
+      "title": "Rolex Cellini Moonphase",
+      "description": "The Rolex Cellini Moonphase is a masterpiece of horology, featuring a moon phase complication and exquisite design. It reflects Rolex's commitment to precision and elegance.",
+      "category": "mens-watches",
+      "price": 12999.99,
+      "rating": 4.52,
+      "stock": 33,
+      "brand": "Rolex",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Sophia Jones",
+          "reviewerEmail": "sophia.jones@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Jacob Cooper",
+          "reviewerEmail": "jacob.cooper@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Elijah Cruz",
+          "reviewerEmail": "elijah.cruz@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685984/Ecommerce_FyT/ow9dcchneaa1timnlhjb.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685987/Ecommerce_FyT/e3wmnxxha6ngdamvsr7i.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685989/Ecommerce_FyT/z1vql28pwm5h0nnlmli8.webp"
+      ]
+    },
+    {
+      "title": "Rolex Datejust",
+      "description": "The Rolex Datejust is an iconic and versatile timepiece with a date window. Known for its timeless design and reliability, it's a symbol of Rolex's watchmaking excellence.",
+      "category": "mens-watches",
+      "price": 10999.99,
+      "rating": 4.94,
+      "stock": 11,
+      "brand": "Rolex",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Max Russell",
+          "reviewerEmail": "max.russell@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Jonathan Pierce",
+          "reviewerEmail": "jonathan.pierce@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Asher Scott",
+          "reviewerEmail": "asher.scott@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685992/Ecommerce_FyT/ngayvwqdhsqwm84honzz.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685994/Ecommerce_FyT/pamlz7ovzw8pvafjomnh.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685997/Ecommerce_FyT/pvfrn1xpyvx9z6dfdcap.webp"
+      ]
+    },
+    {
+      "title": "Rolex Submariner Watch",
+      "description": "The Rolex Submariner is a legendary dive watch with a rich history. Known for its durability and water resistance, it's a symbol of adventure and exploration.",
+      "category": "mens-watches",
+      "price": 13999.99,
+      "rating": 2.97,
+      "stock": 35,
+      "brand": "Rolex",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Very dissatisfied!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Emily Brown",
+          "reviewerEmail": "emily.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Nova Cooper",
+          "reviewerEmail": "nova.cooper@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Would not recommend!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Julian James",
+          "reviewerEmail": "julian.james@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738685999/Ecommerce_FyT/x6qxbod1cnapnppq5zmp.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686002/Ecommerce_FyT/uvwa9e8vtwahvhuzor6p.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686021/Ecommerce_FyT/ppinhrksyhvibjqlx1wa.webp"
+      ]
+    },
+    {
+      "title": "Amazon Echo Plus",
+      "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+      "category": "mobile-accessories",
+      "price": 99.99,
+      "rating": 3.52,
+      "stock": 50,
+      "brand": "Amazon",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Nora Mills",
+          "reviewerEmail": "nora.mills@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Aria Flores",
+          "reviewerEmail": "aria.flores@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686024/Ecommerce_FyT/witdog9svpdxvhnh7sny.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686026/Ecommerce_FyT/nypkir3dnbmxxm7lcdjt.webp"
+      ]
+    },
+    {
+      "title": "Apple Airpods",
+      "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+      "category": "mobile-accessories",
+      "price": 129.99,
+      "rating": 4.38,
+      "stock": 93,
+      "brand": "Apple",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Waste of money!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Aaliyah Hanson",
+          "reviewerEmail": "aaliyah.hanson@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Waste of money!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Leah Gutierrez",
+          "reviewerEmail": "leah.gutierrez@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Jace Smith",
+          "reviewerEmail": "jace.smith@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686029/Ecommerce_FyT/xamvaryisnyh9btc7vzd.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686031/Ecommerce_FyT/uozna1ecatuktdk3lufh.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686033/Ecommerce_FyT/as1ylatpeeelzykp7ftx.webp"
+      ]
+    },
+    {
+      "title": "Apple AirPods Max Silver",
+      "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+      "category": "mobile-accessories",
+      "price": 549.99,
+      "rating": 3.11,
+      "stock": 7,
+      "brand": "Apple",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Waste of money!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Harper Kelly",
+          "reviewerEmail": "harper.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Abigail Rivera",
+          "reviewerEmail": "abigail.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Nora Russell",
+          "reviewerEmail": "nora.russell@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738686036/Ecommerce_FyT/nmsm2f21gcu8dhkgvesx.webp"]
+    },
+    {
+      "title": "Apple Airpower Wireless Charger",
+      "description": "The Apple AirPower Wireless Charger provides a convenient way to charge your compatible Apple devices wirelessly. Simply place your devices on the charging mat for effortless charging.",
+      "category": "mobile-accessories",
+      "price": 79.99,
+      "rating": 4.51,
+      "stock": 78,
+      "brand": "Apple",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Bella Gonzalez",
+          "reviewerEmail": "bella.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Eli Bennett",
+          "reviewerEmail": "eli.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Cameron Perez",
+          "reviewerEmail": "cameron.perez@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738686038/Ecommerce_FyT/fo2f3oysuktd18xu102r.webp"]
+    },
+    {
+      "title": "Apple HomePod Mini Cosmic Grey",
+      "description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience.",
+      "category": "mobile-accessories",
+      "price": 99.99,
+      "rating": 4.51,
+      "stock": 65,
+      "brand": "Apple",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Very dissatisfied!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Evelyn Gonzalez",
+          "reviewerEmail": "evelyn.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Mateo Perez",
+          "reviewerEmail": "mateo.perez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Nora Mills",
+          "reviewerEmail": "nora.mills@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738686040/Ecommerce_FyT/xp2bfaxpuyjjn9diqbnm.webp"]
+    },
+    {
+      "title": "Apple iPhone Charger",
+      "description": "The Apple iPhone Charger is a high-quality charger designed for fast and efficient charging of your iPhone. Ensure your device stays powered up and ready to go.",
+      "category": "mobile-accessories",
+      "price": 19.99,
+      "rating": 3.03,
+      "stock": 4,
+      "brand": "Apple",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Emily Johnson",
+          "reviewerEmail": "emily.johnson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Cameron Perez",
+          "reviewerEmail": "cameron.perez@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686043/Ecommerce_FyT/tjvvk7xrskk58mnbbtgz.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686045/Ecommerce_FyT/ykz0al5ruihozsio38uz.webp"
+      ]
+    },
+    {
+      "title": "Apple MagSafe Battery Pack",
+      "description": "The Apple MagSafe Battery Pack is a portable and convenient way to add extra battery life to your MagSafe-compatible iPhone. Attach it magnetically for a secure connection.",
+      "category": "mobile-accessories",
+      "price": 99.99,
+      "rating": 2.61,
+      "stock": 80,
+      "brand": "Apple",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Hazel Gardner",
+          "reviewerEmail": "hazel.gardner@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Aurora Rodriguez",
+          "reviewerEmail": "aurora.rodriguez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Victoria McDonald",
+          "reviewerEmail": "victoria.mcdonald@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686047/Ecommerce_FyT/yigxccxni0yxsghaek8h.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686049/Ecommerce_FyT/xdjsjf18q5xcvdwrssf2.webp"
+      ]
+    },
+    {
+      "title": "Apple Watch Series 4 Gold",
+      "description": "The Apple Watch Series 4 in Gold is a stylish and advanced smartwatch with features like heart rate monitoring, fitness tracking, and a beautiful Retina display.",
+      "category": "mobile-accessories",
+      "price": 349.99,
+      "rating": 4.42,
+      "stock": 68,
+      "brand": "Apple",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Would not buy again!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Ellie Stewart",
+          "reviewerEmail": "ellie.stewart@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Grayson Coleman",
+          "reviewerEmail": "grayson.coleman@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686051/Ecommerce_FyT/chyq8ijv8kba4ojlgjt8.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686054/Ecommerce_FyT/z2dmthwfy8tegjsdx2ci.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686056/Ecommerce_FyT/qmqraoc63ou46csvbtxl.webp"
+      ]
+    },
+    {
+      "title": "Beats Flex Wireless Earphones",
+      "description": "The Beats Flex Wireless Earphones offer a comfortable and versatile audio experience. With magnetic earbuds and up to 12 hours of battery life, they are ideal for everyday use.",
+      "category": "mobile-accessories",
+      "price": 49.99,
+      "rating": 4.17,
+      "stock": 49,
+      "brand": "Beats",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Hannah Robinson",
+          "reviewerEmail": "hannah.robinson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Grace Perry",
+          "reviewerEmail": "grace.perry@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Grayson Coleman",
+          "reviewerEmail": "grayson.coleman@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738686059/Ecommerce_FyT/yw9wcqtpetkwxedvxrvk.webp"]
+    },
+    {
+      "title": "iPhone 12 Silicone Case with MagSafe Plum",
+      "description": "The iPhone 12 Silicone Case with MagSafe in Plum is a stylish and protective case designed for the iPhone 12. It features MagSafe technology for easy attachment of accessories.",
+      "category": "mobile-accessories",
+      "price": 29.99,
+      "rating": 4.41,
+      "stock": 51,
+      "brand": "Apple",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Isaac Lawrence",
+          "reviewerEmail": "isaac.lawrence@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Would not recommend!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Emily Johnson",
+          "reviewerEmail": "emily.johnson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686061/Ecommerce_FyT/lildvop3yg98yvhy6anu.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686065/Ecommerce_FyT/jzwdijcrexcjhcttolxu.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686068/Ecommerce_FyT/uxwjpebagyxbqrhhdblk.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686070/Ecommerce_FyT/nxj1emlnm3d1sr3sspjv.webp"
+      ]
+    },
+    {
+      "title": "Monopod",
+      "description": "The Monopod is a versatile camera accessory for stable and adjustable shooting. Perfect for capturing selfies, group photos, and videos with ease.",
+      "category": "mobile-accessories",
+      "price": 19.99,
+      "rating": 2.99,
+      "stock": 96,
+      "brand": "TechGear",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Austin Hudson",
+          "reviewerEmail": "austin.hudson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Austin Hudson",
+          "reviewerEmail": "austin.hudson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Gabriel Mitchell",
+          "reviewerEmail": "gabriel.mitchell@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686072/Ecommerce_FyT/wda6ikikpixtydowxhbz.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686075/Ecommerce_FyT/t0xbdxbcxwc05ahihyex.webp"
+      ]
+    },
+    {
+      "title": "Selfie Lamp with iPhone",
+      "description": "The Selfie Lamp with iPhone is a portable and adjustable LED light designed to enhance your selfies and video calls. Attach it to your iPhone for well-lit photos.",
+      "category": "mobile-accessories",
+      "price": 14.99,
+      "rating": 2.84,
+      "stock": 89,
+      "brand": "GadgetMaster",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Hannah Howard",
+          "reviewerEmail": "hannah.howard@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "William Gonzalez",
+          "reviewerEmail": "william.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Would not buy again!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Amelia Perez",
+          "reviewerEmail": "amelia.perez@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738686077/Ecommerce_FyT/ytzxgg6ke5tll7q1ipvz.webp"]
+    },
+    {
+      "title": "Selfie Stick Monopod",
+      "description": "The Selfie Stick Monopod is a extendable and foldable device for capturing the perfect selfie or group photo. Compatible with smartphones and cameras.",
+      "category": "mobile-accessories",
+      "price": 12.99,
+      "rating": 2.93,
+      "stock": 33,
+      "brand": "SnapTech",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Aaron Cook",
+          "reviewerEmail": "aaron.cook@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Emma Wilson",
+          "reviewerEmail": "emma.wilson@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Would not recommend!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Mia Miller",
+          "reviewerEmail": "mia.miller@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738686079/Ecommerce_FyT/mhpdikqkgee5y8dxk3so.webp"]
+    },
+    {
+      "title": "TV Studio Camera Pedestal",
+      "description": "The TV Studio Camera Pedestal is a professional-grade camera support system for smooth and precise camera movements in a studio setting. Ideal for broadcast and production.",
+      "category": "mobile-accessories",
+      "price": 499.99,
+      "rating": 4.05,
+      "stock": 45,
+      "brand": "ProVision",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Mia Miller",
+          "reviewerEmail": "mia.miller@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Would not recommend!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Harper Kelly",
+          "reviewerEmail": "harper.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Would not buy again!",
+          "date": "2024-05-23T08:56:21.624Z",
+          "reviewerName": "Lucas Allen",
+          "reviewerEmail": "lucas.allen@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738686082/Ecommerce_FyT/jvpven6voz08tlo0xmzm.webp"]
+    },
+    {
+      "title": "iPhone 5s",
+      "description": "The iPhone 5s is a classic smartphone known for its compact design and advanced features during its release. While it's an older model, it still provides a reliable user experience.",
+      "category": "smartphones",
+      "price": 199.99,
+      "rating": 3.92,
+      "stock": 65,
+      "brand": "Apple",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Wyatt Perry",
+          "reviewerEmail": "wyatt.perry@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Olivia Anderson",
+          "reviewerEmail": "olivia.anderson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Mateo Nguyen",
+          "reviewerEmail": "mateo.nguyen@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686084/Ecommerce_FyT/tsv4a0jezrkgbo2rpfxc.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686085/Ecommerce_FyT/acx0cd2iwugq4aba1dtm.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686086/Ecommerce_FyT/ctwxar2icm4vgl7gkssg.webp"
+      ]
+    },
+    {
+      "title": "iPhone 6",
+      "description": "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+      "category": "smartphones",
+      "price": 299.99,
+      "rating": 3.76,
+      "stock": 99,
+      "brand": "Apple",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Nicholas Bailey",
+          "reviewerEmail": "nicholas.bailey@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Clara Berry",
+          "reviewerEmail": "clara.berry@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Gavin Stanley",
+          "reviewerEmail": "gavin.stanley@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686087/Ecommerce_FyT/rjsakighcq0l1pnixcas.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686087/Ecommerce_FyT/rtydw6owvxsmpsyix8wp.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686088/Ecommerce_FyT/c3crpejv8mh4ijlfdont.webp"
+      ]
+    },
+    {
+      "title": "iPhone 13 Pro",
+      "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+      "category": "smartphones",
+      "price": 1099.99,
+      "rating": 3.42,
+      "stock": 26,
+      "brand": "Apple",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Aria Roberts",
+          "reviewerEmail": "aria.roberts@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Ryan Graham",
+          "reviewerEmail": "ryan.graham@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Mason Wright",
+          "reviewerEmail": "mason.wright@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686089/Ecommerce_FyT/hgxslwdqhdux2vy7e1yz.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686090/Ecommerce_FyT/j9ir4pfubsyo13hcfrog.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686092/Ecommerce_FyT/uxqhqkmqfa1ua8hfexv2.webp"
+      ]
+    },
+    {
+      "title": "iPhone X",
+      "description": "The iPhone X is a flagship smartphone featuring a bezel-less OLED display, facial recognition technology (Face ID), and impressive performance. It represents a milestone in iPhone design and innovation.",
+      "category": "smartphones",
+      "price": 899.99,
+      "rating": 4.96,
+      "stock": 99,
+      "brand": "Apple",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Eleanor Tyler",
+          "reviewerEmail": "eleanor.tyler@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Maya Reed",
+          "reviewerEmail": "maya.reed@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Elena Baker",
+          "reviewerEmail": "elena.baker@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686093/Ecommerce_FyT/uh3i3oclbusogmliaclp.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686094/Ecommerce_FyT/c63tazzq96tsg6q0d1pf.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686095/Ecommerce_FyT/u5npbmmvjkl6uze2cgvm.webp"
+      ]
+    },
+    {
+      "title": "Oppo A57",
+      "description": "The Oppo A57 is a mid-range smartphone known for its sleek design and capable features. It offers a balance of performance and affordability, making it a popular choice.",
+      "category": "smartphones",
+      "price": 249.99,
+      "rating": 3.1,
+      "stock": 76,
+      "brand": "Oppo",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Not worth the price!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Owen Fisher",
+          "reviewerEmail": "owen.fisher@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Jack Ward",
+          "reviewerEmail": "jack.ward@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Very dissatisfied!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Nora Mills",
+          "reviewerEmail": "nora.mills@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686096/Ecommerce_FyT/mryv7g2pgle2lhjudb00.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686097/Ecommerce_FyT/vyi6rugleh8vsxfcwi5v.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686098/Ecommerce_FyT/jxrx3svlg8yssupa40y3.webp"
+      ]
+    },
+    {
+      "title": "Oppo F19 Pro Plus",
+      "description": "The Oppo F19 Pro Plus is a feature-rich smartphone with a focus on camera capabilities. It boasts advanced photography features and a powerful performance for a premium user experience.",
+      "category": "smartphones",
+      "price": 399.99,
+      "rating": 2.57,
+      "stock": 92,
+      "brand": "Oppo",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Benjamin Foster",
+          "reviewerEmail": "benjamin.foster@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Lillian Bishop",
+          "reviewerEmail": "lillian.bishop@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Would not recommend!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Harper Garcia",
+          "reviewerEmail": "harper.garcia@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686099/Ecommerce_FyT/xv4poiyugilabgnvoge9.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686100/Ecommerce_FyT/fpeofgscnxgoavrjlqiz.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686100/Ecommerce_FyT/a1c1cibkln8x8ui7kg9s.webp"
+      ]
+    },
+    {
+      "title": "Oppo K1",
+      "description": "The Oppo K1 series offers a range of smartphones with various features and specifications. Known for their stylish design and reliable performance, the Oppo K1 series caters to diverse user preferences.",
+      "category": "smartphones",
+      "price": 299.99,
+      "rating": 3.39,
+      "stock": 61,
+      "brand": "Oppo",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Would not buy again!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Penelope Harper",
+          "reviewerEmail": "penelope.harper@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Nathan Reed",
+          "reviewerEmail": "nathan.reed@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Madison Stewart",
+          "reviewerEmail": "madison.stewart@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686101/Ecommerce_FyT/vllqkglam8m45yzbhyqg.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686102/Ecommerce_FyT/w4cn3pvsevgc0yeeoxfg.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686103/Ecommerce_FyT/rcsamgaiapth2w1klt9r.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686104/Ecommerce_FyT/wi9queirnmfd3k8rcsjj.webp"
+      ]
+    },
+    {
+      "title": "Realme C35",
+      "description": "The Realme C35 is a budget-friendly smartphone with a focus on providing essential features for everyday use. It offers a reliable performance and user-friendly experience.",
+      "category": "smartphones",
+      "price": 149.99,
+      "rating": 2.56,
+      "stock": 81,
+      "brand": "Realme",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Ava Harrison",
+          "reviewerEmail": "ava.harrison@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Waste of money!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Sophia Brown",
+          "reviewerEmail": "sophia.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Grace Perry",
+          "reviewerEmail": "grace.perry@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686105/Ecommerce_FyT/uzluhzhdxnbsz1lm54vq.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686105/Ecommerce_FyT/lq2fd4vg3cvnzswdks84.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686106/Ecommerce_FyT/vlicrbiy9fv4ge5fpx7q.webp"
+      ]
+    },
+    {
+      "title": "Realme X",
+      "description": "The Realme X is a mid-range smartphone known for its sleek design and impressive display. It offers a good balance of performance and camera capabilities for users seeking a quality device.",
+      "category": "smartphones",
+      "price": 299.99,
+      "rating": 4.42,
+      "stock": 87,
+      "brand": "Realme",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Benjamin Foster",
+          "reviewerEmail": "benjamin.foster@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Madison Collins",
+          "reviewerEmail": "madison.collins@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Emily Johnson",
+          "reviewerEmail": "emily.johnson@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686107/Ecommerce_FyT/fhjl2qdq6cznognsp5px.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686109/Ecommerce_FyT/yllp9ouay34v5nm1jf6l.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686110/Ecommerce_FyT/rk6ht41bvw05thvr3kdh.webp"
+      ]
+    },
+    {
+      "title": "Realme XT",
+      "description": "The Realme XT is a feature-rich smartphone with a focus on camera technology. It comes equipped with advanced camera sensors, delivering high-quality photos and videos for photography enthusiasts.",
+      "category": "smartphones",
+      "price": 349.99,
+      "rating": 4.14,
+      "stock": 53,
+      "brand": "Realme",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Hannah Howard",
+          "reviewerEmail": "hannah.howard@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Would not recommend!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Claire Foster",
+          "reviewerEmail": "claire.foster@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very dissatisfied!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Nora Russell",
+          "reviewerEmail": "nora.russell@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686111/Ecommerce_FyT/e35tzetlrqtqreqta1zb.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686112/Ecommerce_FyT/vzohijyanzcec4lxsika.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686112/Ecommerce_FyT/ozwmptemyvakr4ujufau.webp"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy S7",
+      "description": "The Samsung Galaxy S7 is a flagship smartphone known for its sleek design and advanced features. It features a high-resolution display, powerful camera, and robust performance.",
+      "category": "smartphones",
+      "price": 299.99,
+      "rating": 4.9,
+      "stock": 55,
+      "brand": "Samsung",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Jace Smith",
+          "reviewerEmail": "jace.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Ruby Andrews",
+          "reviewerEmail": "ruby.andrews@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Aria Roberts",
+          "reviewerEmail": "aria.roberts@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686113/Ecommerce_FyT/ogo2kdvapmjta5bfdjcg.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686114/Ecommerce_FyT/figjsnkrzfidexg2y9xy.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686114/Ecommerce_FyT/eaihqxcvojydomcqogpl.webp"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy S8",
+      "description": "The Samsung Galaxy S8 is a premium smartphone with an Infinity Display, offering a stunning visual experience. It boasts advanced camera capabilities and cutting-edge technology.",
+      "category": "smartphones",
+      "price": 499.99,
+      "rating": 3.69,
+      "stock": 75,
+      "brand": "Samsung",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Christopher West",
+          "reviewerEmail": "christopher.west@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Hazel Evans",
+          "reviewerEmail": "hazel.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Luna Russell",
+          "reviewerEmail": "luna.russell@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686115/Ecommerce_FyT/pdwn1hcl3hyetxg2am3f.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686116/Ecommerce_FyT/njcmxvhqfyph94tkm8jc.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686118/Ecommerce_FyT/kdjwsbezmwoklgclvsfa.webp"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy S10",
+      "description": "The Samsung Galaxy S10 is a flagship device featuring a dynamic AMOLED display, versatile camera system, and powerful performance. It represents innovation and excellence in smartphone technology.",
+      "category": "smartphones",
+      "price": 699.99,
+      "rating": 2.81,
+      "stock": 40,
+      "brand": "Samsung",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Grace Perry",
+          "reviewerEmail": "grace.perry@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Elijah Hill",
+          "reviewerEmail": "elijah.hill@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Eleanor Tyler",
+          "reviewerEmail": "eleanor.tyler@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686120/Ecommerce_FyT/zdv0nqmkcvwmsbrjw7xc.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686120/Ecommerce_FyT/xeoz3mfqqqnqypng8qfs.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686121/Ecommerce_FyT/qxayazvqvcnk74uemk18.webp"
+      ]
+    },
+    {
+      "title": "Vivo S1",
+      "description": "The Vivo S1 is a stylish and mid-range smartphone offering a blend of design and performance. It features a vibrant display, capable camera system, and reliable functionality.",
+      "category": "smartphones",
+      "price": 249.99,
+      "rating": 2.83,
+      "stock": 13,
+      "brand": "Vivo",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Harper Kelly",
+          "reviewerEmail": "harper.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Lillian Simmons",
+          "reviewerEmail": "lillian.simmons@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686122/Ecommerce_FyT/vptoqr1k4zwaihnkd6qh.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686123/Ecommerce_FyT/tw8klgbe9lh2qeii7ivq.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686124/Ecommerce_FyT/qeltdcnvikob0y1pt1tu.webp"
+      ]
+    },
+    {
+      "title": "Vivo V9",
+      "description": "The Vivo V9 is a smartphone known for its sleek design and emphasis on capturing high-quality selfies. It features a notch display, dual-camera setup, and a modern design.",
+      "category": "smartphones",
+      "price": 299.99,
+      "rating": 3.1,
+      "stock": 19,
+      "brand": "Vivo",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Would not recommend!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Elijah Stewart",
+          "reviewerEmail": "elijah.stewart@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Aria Roberts",
+          "reviewerEmail": "aria.roberts@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Hannah Howard",
+          "reviewerEmail": "hannah.howard@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686124/Ecommerce_FyT/ttwvmzytbfszm4abpgzt.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686125/Ecommerce_FyT/ogkucmh6qgpssnvebu7w.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686126/Ecommerce_FyT/rnjkdx7okrhcn1erheyb.webp"
+      ]
+    },
+    {
+      "title": "Vivo X21",
+      "description": "The Vivo X21 is a premium smartphone with a focus on cutting-edge technology. It features an in-display fingerprint sensor, a high-resolution display, and advanced camera capabilities.",
+      "category": "smartphones",
+      "price": 499.99,
+      "rating": 2.75,
+      "stock": 0,
+      "brand": "Vivo",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Logan Lee",
+          "reviewerEmail": "logan.lee@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Bella Grant",
+          "reviewerEmail": "bella.grant@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686127/Ecommerce_FyT/miyncwir0hc11vyfnvdb.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686127/Ecommerce_FyT/tfhbqjr37g3ejksv11bd.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686128/Ecommerce_FyT/s1wzbh2gkfm34r0nmy13.webp"
+      ]
+    },
+    {
+      "title": "Black Sun Glasses",
+      "description": "The Black Sun Glasses are a classic and stylish choice, featuring a sleek black frame and tinted lenses. They provide both UV protection and a fashionable look.",
+      "category": "sunglasses",
+      "price": 29.99,
+      "rating": 3.23,
+      "stock": 100,
+      "brand": "Fashion Shades",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Hunter Gordon",
+          "reviewerEmail": "hunter.gordon@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Christopher West",
+          "reviewerEmail": "christopher.west@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Addison Ward",
+          "reviewerEmail": "addison.ward@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686129/Ecommerce_FyT/ickmnnmkb0myfxjefaig.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686132/Ecommerce_FyT/zkkrdi0gt9noukxdpaji.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686134/Ecommerce_FyT/sqalr58xdebopdrqyo3a.webp"
+      ]
+    },
+    {
+      "title": "Classic Sun Glasses",
+      "description": "The Classic Sun Glasses offer a timeless design with a neutral frame and UV-protected lenses. These sunglasses are versatile and suitable for various occasions.",
+      "category": "sunglasses",
+      "price": 24.99,
+      "rating": 2.99,
+      "stock": 100,
+      "brand": "Fashion Shades",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Hazel Evans",
+          "reviewerEmail": "hazel.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Disappointing product!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Christian Perez",
+          "reviewerEmail": "christian.perez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Aubrey Garcia",
+          "reviewerEmail": "aubrey.garcia@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686136/Ecommerce_FyT/qpcwfcgz7dwkpwyqdzkh.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686139/Ecommerce_FyT/pdlsb7ltth6mmnc2ppl2.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686141/Ecommerce_FyT/ovcynpqtf9ejjfl23du9.webp"
+      ]
+    },
+    {
+      "title": "Green and Black Glasses",
+      "description": "The Green and Black Glasses feature a bold combination of green and black colors, adding a touch of vibrancy to your eyewear collection. They are both stylish and eye-catching.",
+      "category": "sunglasses",
+      "price": 34.99,
+      "rating": 2.84,
+      "stock": 74,
+      "brand": "Fashion Shades",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Miles Stevenson",
+          "reviewerEmail": "miles.stevenson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Henry Adams",
+          "reviewerEmail": "henry.adams@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686143/Ecommerce_FyT/ab9pdtdiertmmdcnxdzi.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686146/Ecommerce_FyT/vzzs07gfviagev9jyiye.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686149/Ecommerce_FyT/dw9r57xjsxtexxyv2zij.webp"
+      ]
+    },
+    {
+      "title": "Party Glasses",
+      "description": "The Party Glasses are designed to add flair to your party outfit. With unique shapes or colorful frames, they're perfect for adding a playful touch to your look during celebrations.",
+      "category": "sunglasses",
+      "price": 19.99,
+      "rating": 3.21,
+      "stock": 35,
+      "brand": "Fashion Fun",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Connor Baker",
+          "reviewerEmail": "connor.baker@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Elena Baker",
+          "reviewerEmail": "elena.baker@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Grayson Coleman",
+          "reviewerEmail": "grayson.coleman@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686151/Ecommerce_FyT/jbgl1e41vavxxnypz0ga.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686153/Ecommerce_FyT/txooetl0rwvgbho4olyf.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686156/Ecommerce_FyT/gfhhjvfukguqgbwzzphk.webp"
+      ]
+    },
+    {
+      "title": "Sunglasses",
+      "description": "The Sunglasses offer a classic and simple design with a focus on functionality. These sunglasses provide essential UV protection while maintaining a timeless look.",
+      "category": "sunglasses",
+      "price": 22.99,
+      "rating": 2.58,
+      "stock": 59,
+      "brand": "Fashion Shades",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Isabella Anderson",
+          "reviewerEmail": "isabella.anderson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Nathan Dixon",
+          "reviewerEmail": "nathan.dixon@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Zoe Nicholson",
+          "reviewerEmail": "zoe.nicholson@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686158/Ecommerce_FyT/bo1d8epivodkekmqmmhy.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686161/Ecommerce_FyT/vh8rkhnywne25znkfgsc.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686164/Ecommerce_FyT/eh8bvlus4k90jcbtnfjx.webp"
+      ]
+    },
+    {
+      "title": "iPad Mini 2021 Starlight",
+      "description": "The iPad Mini 2021 in Starlight is a compact and powerful tablet from Apple. Featuring a stunning Retina display, powerful A-series chip, and a sleek design, it offers a premium tablet experience.",
+      "category": "tablets",
+      "price": 499.99,
+      "rating": 3.87,
+      "stock": 32,
+      "brand": "Apple",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Hazel Evans",
+          "reviewerEmail": "hazel.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Sophia Jones",
+          "reviewerEmail": "sophia.jones@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Abigail Rivera",
+          "reviewerEmail": "abigail.rivera@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686167/Ecommerce_FyT/y2opc48ycrelmbvv7emi.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686169/Ecommerce_FyT/eqwfexurdpedgihjldbq.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686172/Ecommerce_FyT/bkkfmr3xolyay4lfmcvl.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686174/Ecommerce_FyT/gmis067xx2kc5zfo3zaq.webp"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy Tab S8 Plus Grey",
+      "description": "The Samsung Galaxy Tab S8 Plus in Grey is a high-performance Android tablet by Samsung. With a large AMOLED display, powerful processor, and S Pen support, it's ideal for productivity and entertainment.",
+      "category": "tablets",
+      "price": 599.99,
+      "rating": 3.43,
+      "stock": 76,
+      "brand": "Samsung",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Would not buy again!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Jackson Morales",
+          "reviewerEmail": "jackson.morales@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Cameron Perez",
+          "reviewerEmail": "cameron.perez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Nova Cooper",
+          "reviewerEmail": "nova.cooper@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686177/Ecommerce_FyT/pc6f1ux9ww3jnf2fyfmr.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686179/Ecommerce_FyT/lqjg36unf56oapms2fxh.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686181/Ecommerce_FyT/wrjvep92j41w3kri8k65.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686184/Ecommerce_FyT/sicat8ylovpeuluffcdp.webp"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy Tab White",
+      "description": "The Samsung Galaxy Tab in White is a sleek and versatile Android tablet. With a vibrant display, long-lasting battery, and a range of features, it offers a great user experience for various tasks.",
+      "category": "tablets",
+      "price": 349.99,
+      "rating": 3.7,
+      "stock": 0,
+      "brand": "Samsung",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Would not recommend!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Lucas Ramirez",
+          "reviewerEmail": "lucas.ramirez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Chloe Roberts",
+          "reviewerEmail": "chloe.roberts@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Benjamin Foster",
+          "reviewerEmail": "benjamin.foster@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686186/Ecommerce_FyT/i5hldsenhuvzrezeysjr.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686189/Ecommerce_FyT/r3njufy1ggzxkykogf5f.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686191/Ecommerce_FyT/lt03ezggvl5thhmawxpq.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686194/Ecommerce_FyT/vryjh6mqj87guh1mxke4.webp"
+      ]
+    },
+    {
+      "title": "Blue Frock",
+      "description": "The Blue Frock is a charming and stylish dress for various occasions. With a vibrant blue color and a comfortable design, it adds a touch of elegance to your wardrobe.",
+      "category": "tops",
+      "price": 29.99,
+      "rating": 3.57,
+      "stock": 37,
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Very dissatisfied!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Carter Rivera",
+          "reviewerEmail": "carter.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Harper Garcia",
+          "reviewerEmail": "harper.garcia@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Violet Roberts",
+          "reviewerEmail": "violet.roberts@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686198/Ecommerce_FyT/ifdvqpfyh7x9f8rcc1oz.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686201/Ecommerce_FyT/xue8qz4cei0wwiuliuqj.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686204/Ecommerce_FyT/ohrbr8zpgnkfhf0ecqex.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686206/Ecommerce_FyT/bfy1mxtj4dbzmzhe8bwf.webp"
+      ]
+    },
+    {
+      "title": "Girl Summer Dress",
+      "description": "The Girl Summer Dress is a cute and breezy dress designed for warm weather. With playful patterns and lightweight fabric, it's perfect for keeping cool and stylish during the summer.",
+      "category": "tops",
+      "price": 19.99,
+      "rating": 2.67,
+      "stock": 20,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Gabriel Adams",
+          "reviewerEmail": "gabriel.adams@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Addison Ward",
+          "reviewerEmail": "addison.ward@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Nora Mills",
+          "reviewerEmail": "nora.mills@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686209/Ecommerce_FyT/dhccj1osyjpgzpcrumpr.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686211/Ecommerce_FyT/dcdyee8nvbdx2cuqbnxl.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686213/Ecommerce_FyT/rhrnndpt9en3gquwtnt8.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686216/Ecommerce_FyT/jtgwo4rwh4imyftkvljx.webp"
+      ]
+    },
+    {
+      "title": "Gray Dress",
+      "description": "The Gray Dress is a versatile and chic option for various occasions. With a neutral gray color, it can be dressed up or down, making it a wardrobe staple for any fashion-forward individual.",
+      "category": "tops",
+      "price": 34.99,
+      "rating": 3.49,
+      "stock": 81,
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Jacob Cooper",
+          "reviewerEmail": "jacob.cooper@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Mila Hernandez",
+          "reviewerEmail": "mila.hernandez@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Very dissatisfied!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Ella Adams",
+          "reviewerEmail": "ella.adams@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686219/Ecommerce_FyT/omvex3io0exv97zklxwm.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686221/Ecommerce_FyT/uxrcukyp1aa6dujhoxqw.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686223/Ecommerce_FyT/vcewt6ssjvqpacbzgyn5.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686226/Ecommerce_FyT/osrfwzdcldvlwxwvsxol.webp"
+      ]
+    },
+    {
+      "title": "Short Frock",
+      "description": "The Short Frock is a playful and trendy dress with a shorter length. Ideal for casual outings or special occasions, it combines style and comfort for a fashionable look.",
+      "category": "tops",
+      "price": 24.99,
+      "rating": 4.63,
+      "stock": 19,
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Asher Scott",
+          "reviewerEmail": "asher.scott@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Penelope Harper",
+          "reviewerEmail": "penelope.harper@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Nathan Reed",
+          "reviewerEmail": "nathan.reed@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686229/Ecommerce_FyT/jwdnwa3tmialq9syolcy.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686231/Ecommerce_FyT/c6orgpe4xp8bgrsdtelg.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686234/Ecommerce_FyT/mhl4xgxy8ejbayoot5aw.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686236/Ecommerce_FyT/qozhwwyxvv9sxruxlrzh.webp"
+      ]
+    },
+    {
+      "title": "Tartan Dress",
+      "description": "The Tartan Dress features a classic tartan pattern, bringing a timeless and sophisticated touch to your wardrobe. Perfect for fall and winter, it adds a hint of traditional charm.",
+      "category": "tops",
+      "price": 39.99,
+      "rating": 2.82,
+      "stock": 100,
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Jaxon Barnes",
+          "reviewerEmail": "jaxon.barnes@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Would not recommend!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "Mateo Perez",
+          "reviewerEmail": "mateo.perez@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.626Z",
+          "reviewerName": "David Martinez",
+          "reviewerEmail": "david.martinez@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686239/Ecommerce_FyT/atq8dnrtzub3milozjc9.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686242/Ecommerce_FyT/c9mmmhmiahsqe9mkj7sq.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686244/Ecommerce_FyT/aqqfnllol4qlfcvnd646.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686247/Ecommerce_FyT/vlmb6tz1v457ryxxsoh7.webp"
+      ]
+    },
+    {
+      "title": "Blue Women's Handbag",
+      "description": "The Blue Women's Handbag is a stylish and spacious accessory for everyday use. With a vibrant blue color and multiple compartments, it combines fashion and functionality.",
+      "category": "womens-bags",
+      "price": 49.99,
+      "rating": 3.37,
+      "stock": 76,
+      "brand": "Fashionista",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Aria Parker",
+          "reviewerEmail": "aria.parker@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Hazel Gardner",
+          "reviewerEmail": "hazel.gardner@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686250/Ecommerce_FyT/rmwrtt7njcp6tlnissew.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686252/Ecommerce_FyT/g673zzuvbdmiwy2lbbbd.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686255/Ecommerce_FyT/ikinqsw1osshuxb5lacc.webp"
+      ]
+    },
+    {
+      "title": "Heshe Women's Leather Bag",
+      "description": "The Heshe Women's Leather Bag is a luxurious and high-quality leather bag for the sophisticated woman. With a timeless design and durable craftsmanship, it's a versatile accessory.",
+      "category": "womens-bags",
+      "price": 129.99,
+      "rating": 2.62,
+      "stock": 9,
+      "brand": "Heshe",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Hunter Gordon",
+          "reviewerEmail": "hunter.gordon@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Ethan Fletcher",
+          "reviewerEmail": "ethan.fletcher@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Aaron Cook",
+          "reviewerEmail": "aaron.cook@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686258/Ecommerce_FyT/sd0tscldoxr0szbp7bl2.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686261/Ecommerce_FyT/ptclahc7elszampebk3y.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686263/Ecommerce_FyT/gi7tilnvxzdxoifuuigd.webp"
+      ]
+    },
+    {
+      "title": "Prada Women Bag",
+      "description": "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts.",
+      "category": "womens-bags",
+      "price": 599.99,
+      "rating": 3.52,
+      "stock": 43,
+      "brand": "Prada",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Samantha Howard",
+          "reviewerEmail": "samantha.howard@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Henry Hill",
+          "reviewerEmail": "henry.hill@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Lucas Ramirez",
+          "reviewerEmail": "lucas.ramirez@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686265/Ecommerce_FyT/fnveur0rgg8d024hgivu.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686268/Ecommerce_FyT/xbyyl3viwswafmgr5t1t.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686271/Ecommerce_FyT/w2i2gvf84xahiw4gu4pl.webp"
+      ]
+    },
+    {
+      "title": "White Faux Leather Backpack",
+      "description": "The White Faux Leather Backpack is a trendy and practical backpack for the modern woman. With a sleek white design and ample storage space, it's perfect for both casual and on-the-go styles.",
+      "category": "womens-bags",
+      "price": 39.99,
+      "rating": 4.91,
+      "stock": 89,
+      "brand": "Urban Chic",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Would not recommend!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Harper Kelly",
+          "reviewerEmail": "harper.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Sofia Mitchell",
+          "reviewerEmail": "sofia.mitchell@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Eli Bennett",
+          "reviewerEmail": "eli.bennett@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686273/Ecommerce_FyT/im8vek46jmsuizsobbc9.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686275/Ecommerce_FyT/li8povwbl1kletlice44.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686278/Ecommerce_FyT/guth8dplok5hos8tc5pc.webp"
+      ]
+    },
+    {
+      "title": "Women Handbag Black",
+      "description": "The Women Handbag in Black is a classic and versatile accessory that complements various outfits. With a timeless black color and functional design, it's a must-have in every woman's wardrobe.",
+      "category": "womens-bags",
+      "price": 59.99,
+      "rating": 4.94,
+      "stock": 24,
+      "brand": "Elegance Collection",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Leah Hughes",
+          "reviewerEmail": "leah.hughes@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Lila Hudson",
+          "reviewerEmail": "lila.hudson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Ethan Martinez",
+          "reviewerEmail": "ethan.martinez@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686282/Ecommerce_FyT/hzhrkx08fkyx155p3nyi.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686284/Ecommerce_FyT/upf9vitej05rsy4gpnzv.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686287/Ecommerce_FyT/itdvkovhtqjjqa7m2gru.webp"
+      ]
+    },
+    {
+      "title": "Black Women's Gown",
+      "description": "The Black Women's Gown is an elegant and timeless evening gown. With a sleek black design, it's perfect for formal events and special occasions, exuding sophistication and style.",
+      "category": "womens-dresses",
+      "price": 129.99,
+      "rating": 4.77,
+      "stock": 59,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Aria Flores",
+          "reviewerEmail": "aria.flores@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Stella Hughes",
+          "reviewerEmail": "stella.hughes@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Mason Pearson",
+          "reviewerEmail": "mason.pearson@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686289/Ecommerce_FyT/kckd4dwfkwpmkpylmlf3.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686291/Ecommerce_FyT/uy9ezz9pwpnqta2uymti.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686294/Ecommerce_FyT/yklrlyf8qjoqoujdrtow.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686296/Ecommerce_FyT/tmijiqbu3eo2kpxjzuot.webp"
+      ]
+    },
+    {
+      "title": "Corset Leather With Skirt",
+      "description": "The Corset Leather With Skirt is a bold and edgy ensemble that combines a stylish corset with a matching skirt. Ideal for fashion-forward individuals, it makes a statement at any event.",
+      "category": "womens-dresses",
+      "price": 89.99,
+      "rating": 2.52,
+      "stock": 59,
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Mason Parker",
+          "reviewerEmail": "mason.parker@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Would not recommend!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Grace Green",
+          "reviewerEmail": "grace.green@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Madison Stewart",
+          "reviewerEmail": "madison.stewart@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686299/Ecommerce_FyT/jecvjanprdmarcx7ccgu.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686301/Ecommerce_FyT/lmtm55m1l7l2egn7sn5i.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686304/Ecommerce_FyT/mgd2yznnqkeit7nydw2h.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686306/Ecommerce_FyT/yvun7xfecxeyzr9xxmn5.webp"
+      ]
+    },
+    {
+      "title": "Corset With Black Skirt",
+      "description": "The Corset With Black Skirt is a chic and versatile outfit that pairs a fashionable corset with a classic black skirt. It offers a trendy and coordinated look for various occasions.",
+      "category": "womens-dresses",
+      "price": 79.99,
+      "rating": 3,
+      "stock": 67,
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Nolan Bryant",
+          "reviewerEmail": "nolan.bryant@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Julian Newton",
+          "reviewerEmail": "julian.newton@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Elena Baker",
+          "reviewerEmail": "elena.baker@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686309/Ecommerce_FyT/wsvb2tmnq7pvqyzik66a.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686311/Ecommerce_FyT/yqlcmfizxa1joxjxrsqz.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686314/Ecommerce_FyT/leul25f0qix9saw7qq2g.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686316/Ecommerce_FyT/tixwbcecaiuz5rjlfqo1.webp"
+      ]
+    },
+    {
+      "title": "Dress Pea",
+      "description": "The Dress Pea is a stylish and comfortable dress with a pea pattern. Perfect for casual outings, it adds a playful and fun element to your wardrobe, making it a great choice for day-to-day wear.",
+      "category": "womens-dresses",
+      "price": 49.99,
+      "rating": 2.92,
+      "stock": 29,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Chloe Morales",
+          "reviewerEmail": "chloe.morales@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Would not buy again!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Levi Hicks",
+          "reviewerEmail": "levi.hicks@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Nicholas Edwards",
+          "reviewerEmail": "nicholas.edwards@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686319/Ecommerce_FyT/aa55x01zkmospinpbsdb.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686321/Ecommerce_FyT/loowhjan6jptkyvmx0lo.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686324/Ecommerce_FyT/ncvely2anvkd4gy1qyze.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686326/Ecommerce_FyT/v5zi6s0ougkxhc18wlhp.webp"
+      ]
+    },
+    {
+      "title": "Marni Red & Black Suit",
+      "description": "The Marni Red & Black Suit is a sophisticated and fashion-forward suit ensemble. With a combination of red and black tones, it showcases a modern design for a bold and confident look.",
+      "category": "womens-dresses",
+      "price": 179.99,
+      "rating": 4.17,
+      "stock": 15,
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Nathan Dixon",
+          "reviewerEmail": "nathan.dixon@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Chloe Morales",
+          "reviewerEmail": "chloe.morales@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Nicholas Edwards",
+          "reviewerEmail": "nicholas.edwards@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686329/Ecommerce_FyT/q2kowv12gbyvhl1vg9z9.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686331/Ecommerce_FyT/fstlbxqqb9wl4bklm5sm.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686333/Ecommerce_FyT/yye3l6z6mgjcdigup6ry.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686336/Ecommerce_FyT/qsgrmwk0thzelxvip5fm.webp"
+      ]
+    },
+    {
+      "title": "Green Crystal Earring",
+      "description": "The Green Crystal Earring is a dazzling accessory that features a vibrant green crystal. With a classic design, it adds a touch of elegance to your ensemble, perfect for formal or special occasions.",
+      "category": "womens-jewellery",
+      "price": 29.99,
+      "rating": 2.94,
+      "stock": 1,
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "James Garcia",
+          "reviewerEmail": "james.garcia@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Grayson Coleman",
+          "reviewerEmail": "grayson.coleman@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Waste of money!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Nolan Bryant",
+          "reviewerEmail": "nolan.bryant@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686338/Ecommerce_FyT/cojxmsjgcwu0la0pskno.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686340/Ecommerce_FyT/wukeeeza0qf39zb1rpao.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686342/Ecommerce_FyT/ocmsuno0scglurtiy4yo.webp"
+      ]
+    },
+    {
+      "title": "Green Oval Earring",
+      "description": "The Green Oval Earring is a stylish and versatile accessory with a unique oval shape. Whether for casual or dressy occasions, its green hue and contemporary design make it a standout piece.",
+      "category": "womens-jewellery",
+      "price": 24.99,
+      "rating": 2.54,
+      "stock": 89,
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Lily Lee",
+          "reviewerEmail": "lily.lee@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Brandon Collins",
+          "reviewerEmail": "brandon.collins@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Avery Scott",
+          "reviewerEmail": "avery.scott@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686344/Ecommerce_FyT/nviwh0r0hdijokachdlq.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686346/Ecommerce_FyT/hsd8hrtzjpqveoddjdbm.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686348/Ecommerce_FyT/idclth4vhztsklvj78ys.webp"
+      ]
+    },
+    {
+      "title": "Tropical Earring",
+      "description": "The Tropical Earring is a fun and playful accessory inspired by tropical elements. Featuring vibrant colors and a lively design, it's perfect for adding a touch of summer to your look.",
+      "category": "womens-jewellery",
+      "price": 19.99,
+      "rating": 3.32,
+      "stock": 76,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Chloe Morales",
+          "reviewerEmail": "chloe.morales@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Scarlett Bowman",
+          "reviewerEmail": "scarlett.bowman@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Tyler Davis",
+          "reviewerEmail": "tyler.davis@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686351/Ecommerce_FyT/pngazxk1dd22psgxyerf.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686353/Ecommerce_FyT/tgqenwibv87wlv0ag7vh.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686355/Ecommerce_FyT/mce2ly4g21nyr4x2u8z2.webp"
+      ]
+    },
+    {
+      "title": "Black & Brown Slipper",
+      "description": "The Black & Brown Slipper is a comfortable and stylish choice for casual wear. Featuring a blend of black and brown colors, it adds a touch of sophistication to your relaxation.",
+      "category": "womens-shoes",
+      "price": 19.99,
+      "rating": 4.13,
+      "stock": 80,
+      "brand": "Comfort Trends",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Ethan Fletcher",
+          "reviewerEmail": "ethan.fletcher@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Nathan Dixon",
+          "reviewerEmail": "nathan.dixon@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.627Z",
+          "reviewerName": "Savannah Gomez",
+          "reviewerEmail": "savannah.gomez@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686358/Ecommerce_FyT/mz75wbyonxu1kaxxnqi0.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686360/Ecommerce_FyT/f0zkyytlycgnrnjxc4va.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686363/Ecommerce_FyT/jjpkenxzt2zbwlljovvn.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686365/Ecommerce_FyT/i5b7n5aetn9g3noyg9op.webp"
+      ]
+    },
+    {
+      "title": "Calvin Klein Heel Shoes",
+      "description": "Calvin Klein Heel Shoes are elegant and sophisticated, designed for formal occasions. With a classic design and high-quality materials, they complement your stylish ensemble.",
+      "category": "womens-shoes",
+      "price": 79.99,
+      "rating": 4.06,
+      "stock": 99,
+      "brand": "Calvin Klein",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Ella Adams",
+          "reviewerEmail": "ella.adams@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Lillian Bishop",
+          "reviewerEmail": "lillian.bishop@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Aria Roberts",
+          "reviewerEmail": "aria.roberts@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686368/Ecommerce_FyT/zaqqxvsmkrdpwi7mfnhp.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686370/Ecommerce_FyT/dazggvtdw6nsbedyalcz.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686373/Ecommerce_FyT/p7ofigzbhi0ljxzjbmf4.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686376/Ecommerce_FyT/knywxelbbphrdh2czmb4.webp"
+      ]
+    },
+    {
+      "title": "Golden Shoes Woman",
+      "description": "The Golden Shoes for Women are a glamorous choice for special occasions. Featuring a golden hue and stylish design, they add a touch of luxury to your outfit.",
+      "category": "womens-shoes",
+      "price": 49.99,
+      "rating": 4.82,
+      "stock": 99,
+      "brand": "Fashion Diva",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Owen Fisher",
+          "reviewerEmail": "owen.fisher@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Xavier Wright",
+          "reviewerEmail": "xavier.wright@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "William Gonzalez",
+          "reviewerEmail": "william.gonzalez@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686379/Ecommerce_FyT/bzawjlshxzdh5hxdwg9l.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686381/Ecommerce_FyT/rotnuh6j6anpmladgifb.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686384/Ecommerce_FyT/uaa4xwly2u9btqeiillq.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686387/Ecommerce_FyT/muxsnqdfhj9wtvwtapov.webp"
+      ]
+    },
+    {
+      "title": "Pampi Shoes",
+      "description": "Pampi Shoes offer a blend of comfort and style for everyday use. With a versatile design, they are suitable for various casual occasions, providing a trendy and relaxed look.",
+      "category": "womens-shoes",
+      "price": 29.99,
+      "rating": 3.01,
+      "stock": 36,
+      "brand": "Pampi",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Waste of money!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Grace Green",
+          "reviewerEmail": "grace.green@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Aubrey Garcia",
+          "reviewerEmail": "aubrey.garcia@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Logan Lee",
+          "reviewerEmail": "logan.lee@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686390/Ecommerce_FyT/krrwtml4ugdrs1holb8i.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686392/Ecommerce_FyT/xccxtatoxkarzzy0joyn.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686394/Ecommerce_FyT/u0eubsgpsiec3i2j3opi.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686397/Ecommerce_FyT/m75ucc9vtyj7rirtuzya.webp"
+      ]
+    },
+    {
+      "title": "Red Shoes",
+      "description": "The Red Shoes make a bold statement with their vibrant red color. Whether for a party or a casual outing, these shoes add a pop of color and style to your wardrobe.",
+      "category": "womens-shoes",
+      "price": 34.99,
+      "rating": 4.23,
+      "stock": 53,
+      "brand": "Fashion Express",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Ethan Martinez",
+          "reviewerEmail": "ethan.martinez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Christopher West",
+          "reviewerEmail": "christopher.west@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Mila Hernandez",
+          "reviewerEmail": "mila.hernandez@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686400/Ecommerce_FyT/dlwocr8l2ajvoqdomgkr.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686402/Ecommerce_FyT/wcgnpvcx89hsjxnklxe1.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686404/Ecommerce_FyT/ic5qimxrjo8djvw6sz1o.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686407/Ecommerce_FyT/ywlfxcps9geyjoyejhhs.webp"
+      ]
+    },
+    {
+      "title": "IWC Ingenieur Automatic Steel",
+      "description": "The IWC Ingenieur Automatic Steel watch is a durable and sophisticated timepiece. With a stainless steel case and automatic movement, it combines precision and style for watch enthusiasts.",
+      "category": "womens-watches",
+      "price": 4999.99,
+      "rating": 2.58,
+      "stock": 85,
+      "brand": "IWC",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Nova Cooper",
+          "reviewerEmail": "nova.cooper@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Nicholas Bailey",
+          "reviewerEmail": "nicholas.bailey@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Paisley Bell",
+          "reviewerEmail": "paisley.bell@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686409/Ecommerce_FyT/fhkimzmztqx7cb2grqf2.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686411/Ecommerce_FyT/f61cljompt8iw3b79f9g.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686414/Ecommerce_FyT/x0eiheal7dpdjiepjjmo.webp"
+      ]
+    },
+    {
+      "title": "Rolex Cellini Moonphase",
+      "description": "The Rolex Cellini Moonphase watch is a masterpiece of horology. Featuring a moon phase complication, it showcases the craftsmanship and elegance that Rolex is renowned for.",
+      "category": "womens-watches",
+      "price": 15999.99,
+      "rating": 3.41,
+      "stock": 66,
+      "brand": "Rolex",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Logan Lee",
+          "reviewerEmail": "logan.lee@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Would not recommend!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Leah Henderson",
+          "reviewerEmail": "leah.henderson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Mateo Nguyen",
+          "reviewerEmail": "mateo.nguyen@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686417/Ecommerce_FyT/gxxzknwqwqtsykpwqvoo.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686419/Ecommerce_FyT/lfuisge3m1rphhcrjl2o.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686421/Ecommerce_FyT/wj8vkdgl83gyedz0893p.webp"
+      ]
+    },
+    {
+      "title": "Rolex Datejust Women",
+      "description": "The Rolex Datejust Women's watch is an iconic timepiece designed for women. With a timeless design and a date complication, it offers both elegance and functionality.",
+      "category": "womens-watches",
+      "price": 10999.99,
+      "rating": 3.53,
+      "stock": 31,
+      "brand": "Rolex",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Evan Reed",
+          "reviewerEmail": "evan.reed@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Isabella Jackson",
+          "reviewerEmail": "isabella.jackson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Liam Garcia",
+          "reviewerEmail": "liam.garcia@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686424/Ecommerce_FyT/cnrudvtnyi21qn3hunkp.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686426/Ecommerce_FyT/ldoveijazotv1l5egtyu.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686429/Ecommerce_FyT/prkdtnoafwtpr9weup2p.webp"
+      ]
+    },
+    {
+      "title": "Watch Gold for Women",
+      "description": "The Gold Women's Watch is a stunning accessory that combines luxury and style. Featuring a gold-plated case and a chic design, it adds a touch of glamour to any outfit.",
+      "category": "womens-watches",
+      "price": 799.99,
+      "rating": 3.03,
+      "stock": 94,
+      "brand": "Fashion Gold",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Lucas Allen",
+          "reviewerEmail": "lucas.allen@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Bella Gonzalez",
+          "reviewerEmail": "bella.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Michael Johnson",
+          "reviewerEmail": "michael.johnson@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686432/Ecommerce_FyT/vsfuvm4jzryzzjio5afr.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686434/Ecommerce_FyT/ozzoolgmaubv4nicibgu.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686436/Ecommerce_FyT/mayajqwu3u2iknlso3j1.webp"
+      ]
+    },
+    {
+      "title": "Women's Wrist Watch",
+      "description": "The Women's Wrist Watch is a versatile and fashionable timepiece for everyday wear. With a comfortable strap and a simple yet elegant design, it complements various styles.",
+      "category": "womens-watches",
+      "price": 129.99,
+      "rating": 2.93,
+      "stock": 55,
+      "brand": "Fashion Co.",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Emily Brown",
+          "reviewerEmail": "emily.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Liam Smith",
+          "reviewerEmail": "liam.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Waste of money!",
+          "date": "2024-05-23T08:56:21.628Z",
+          "reviewerName": "Mila Hernandez",
+          "reviewerEmail": "mila.hernandez@x.dummyjson.com"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686439/Ecommerce_FyT/er6mhwgqo7mcyhu9bqq2.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686441/Ecommerce_FyT/zghzxdtksmcbymzybe4q.webp",
+        "https://res.cloudinary.com/dm7llqul3/image/upload/v1738686443/Ecommerce_FyT/ewai2tf4jvcvmnca7izr.webp"
+      ]
+    },
+    {
+      "title": "Eyeshadow Palette with Mirror",
+      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+      "category": "beauty",
+      "price": 19.99,
+      "rating": 3.28,
+      "stock": 44,
+      "brand": "Glamour Beauty",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Liam Garcia",
+          "reviewerEmail": "liam.garcia@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Nora Russell",
+          "reviewerEmail": "nora.russell@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Elena Baker",
+          "reviewerEmail": "elena.baker@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738686445/Ecommerce_FyT/ko5k27ngchq0swcfpqw9.webp"]
+    },
+    {
+      "title": "Powder Canister",
+      "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+      "category": "beauty",
+      "price": 14.99,
+      "rating": 3.82,
+      "stock": 59,
+      "brand": "Velvet Touch",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Ethan Thompson",
+          "reviewerEmail": "ethan.thompson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Levi Hicks",
+          "reviewerEmail": "levi.hicks@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Hazel Gardner",
+          "reviewerEmail": "hazel.gardner@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738686447/Ecommerce_FyT/udvtcr1rwe523jt9olxq.webp"]
+    },
+    {
+      "title": "Red Lipstick",
+      "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+      "category": "beauty",
+      "price": 12.99,
+      "rating": 2.51,
+      "stock": 68,
+      "brand": "Chic Cosmetics",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Leo Rivera",
+          "reviewerEmail": "leo.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Oscar Powers",
+          "reviewerEmail": "oscar.powers@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Carter Rivera",
+          "reviewerEmail": "carter.rivera@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738686449/Ecommerce_FyT/b3yib3x5syjn2ll7f7z0.webp"]
+    },
+    {
+      "title": "Red Nail Polish",
+      "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+      "category": "beauty",
+      "price": 8.99,
+      "rating": 3.91,
+      "stock": 71,
+      "brand": "Nail Couture",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Leo Rivera",
+          "reviewerEmail": "leo.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Evan Reed",
+          "reviewerEmail": "evan.reed@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Evelyn Sanchez",
+          "reviewerEmail": "evelyn.sanchez@x.dummyjson.com"
+        }
+      ],
+      "images": ["https://res.cloudinary.com/dm7llqul3/image/upload/v1738686451/Ecommerce_FyT/d1islmqnxlfccgugw1so.webp"]
+    }
+  ]
+}
